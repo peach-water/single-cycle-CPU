@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sat Jan  2 20:28:20 2021
+# Process ID: 13064
+# Current directory: E:/Vivado_project/CPU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2440 E:\Vivado_project\CPU\CPU.xpr
+# Log file: E:/Vivado_project/CPU/vivado.log
+# Journal file: E:/Vivado_project/CPU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/Vivado_project/CPU/CPU.xpr
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-3] IPUserFilesDir: Could not find the directory 'E:/Vivado_project/CPU/CPU.ip_user_files'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'e:/Vivado_project/IPcore'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2017.4/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Jan  2 20:29:22 2021...
