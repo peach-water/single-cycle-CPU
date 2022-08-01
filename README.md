@@ -12,4 +12,4 @@
 　　文件只能够跑仿真，如果需要烧录到板子上，在top模块将三个输出使用的端口封闭后再综合文件（三个端口分别是pc、instr、alures）
 　　
 　　
-QQ：wang.peach@qq.com
+
